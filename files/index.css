@@ -1,0 +1,12 @@
+/*index.css*/
+h2 {
+  color: black;
+}
+
+.delete {
+  margin-right: 5px;
+}
+
+body {
+  background-color: blueviolet;
+}
